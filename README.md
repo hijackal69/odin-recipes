@@ -1,0 +1,1 @@
+This is my first attempt at a basic site. Hoping to learn as i go and tweek as i go. Would like to be able to use images as links and end up learning how to position things so theyre asthetically pleasing.
