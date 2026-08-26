@@ -10,7 +10,17 @@ border:5px dotted black;
 margin: auto;
 background: rgb(217, 183, 183);
 font-style: italic;
-width:fit-content
+width:fit-content;
+
+}
+
+.image-chinese,.image-beef,.image-burger
+{
+    text-align: center;
+    margin: 20px;
+    border:5px white solid;
+
+
 
 }
 
@@ -26,7 +36,15 @@ width:fit-content
     
     }
 
-   
+.chinese-page, .burger-page, .beef-page {
+    text-align: center;
+    margin:20px auto;
+    border:5px white solid;
+    width:500px;
+    padding:5px;
+    
+
+    }
 
 
 button{
@@ -38,12 +56,4 @@ button{
 
 }
 
-.image-chinese,.image-beef,.image-burger
-{
-    text-align: center;
-    margin: 20px;
-    border:5px white solid;
 
-
-
-}
