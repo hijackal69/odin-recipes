@@ -1,12 +1,13 @@
 body{
-background: rgb(212, 231, 120);
+background: rgb(118, 176, 181);
 font-family: sans-serif, arial;
+
 
 }
 .head{
 font-size: 50px;
 text-align: center;
-border:5px dotted black;
+border:5px solid black;
 margin: auto;
 background: rgb(217, 183, 183);
 font-style: italic;
@@ -14,9 +15,8 @@ width:fit-content;
 
 }
 
-.image-chinese,.image-beef,.image-burger
-{
-    text-align: center;
+.image-chinese,.image-beef,.image-burger{
+
     margin: 20px;
     border:5px white solid;
 
@@ -28,23 +28,24 @@ width:fit-content;
 
     background: black;
     color:white;
-    font-size: 20px;
     text-align: center;
     padding: 30px;
     width: 600px;
     margin: 20px auto;    
     
     }
+.ingredients{
+    width: 500px;
+}
 
 .chinese-page, .burger-page, .beef-page {
-    text-align: center;
-    margin:20px auto;
+    margin:20px;
     border:5px white solid;
     width:500px;
     padding:5px;
-    
-
-    }
+    text-align: center;
+    float:right;
+ }
 
 
 button{
@@ -53,6 +54,7 @@ button{
     text-align: center;
     background: rgb(159, 133, 133);
     color: white;
+    margin: 30px;
 
 }
 
